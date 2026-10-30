@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# Database
+database/*.db
+
+# Uploaded Documents
+data/*
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
